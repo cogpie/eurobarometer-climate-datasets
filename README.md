@@ -36,6 +36,11 @@
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S942_71_1_EBS313)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=4971) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
+    - Special Eurobarometer 300/69.2 - Europeans’ attitudes towards climate change
+        - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/1461)
+        - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S1461_69_2_300)
+        - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=4744) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
+
     - Notes
         - All executive reports produced by [EU Commission](https://ec.europa.eu/info/index_en)
         - All aggregated data produced by [EU Open Data Portal](https://data.europa.eu/euodp/en/home)
