@@ -1,42 +1,42 @@
 # Dataset Sources
 
 - Survey and Demographic Data
-    - Special Eurobarometer 490/90.3 - Climate Change
+    - Special Eurobarometer 490/90.3 - Climate Change (2019)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/2212)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S2212_91_3_490_ENG)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=7572) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 459/87.1 - Climate Change
+    - Special Eurobarometer 459/87.1 - Climate Change (2017)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/2140)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S2140_87_1_459_ENG)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=6861) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 435/83.4 - Climate Change
+    - Special Eurobarometer 435/83.4 - Climate Change (2015)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/2060)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S2060_83_4_435_ENG)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=6595) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 409/80.2 - Climate Change
+    - Special Eurobarometer 409/80.2 - Climate Change (2013)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/1084)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S1084_80_2_409)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=5877) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 372/75.4 - Climate Change/Social Climate
+    - Special Eurobarometer 372/75.4 - Climate Change/Social Climate (2011)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/1007)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S1007_75_4_EBS372)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=5564) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 322/72.1 - Europeans'attitudes towards climate change
+    - Special Eurobarometer 322/72.1 - Europeans'attitudes towards climate change (2009-09)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/703)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S703_72_1_EBS322)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=4975) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 313/71.1 - Europeans’ attitudes towards climate change
+    - Special Eurobarometer 313/71.1 - Europeans’ attitudes towards climate change (2009-02)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/942)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S942_71_1_EBS313)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=4971) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
 
-    - Special Eurobarometer 300/69.2 - Europeans’ attitudes towards climate change
+    - Special Eurobarometer 300/69.2 - Europeans’ attitudes towards climate change (2008-05)
         - executive reports from [here](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/surveyKy/1461)
         - aggregated data from [here](https://data.europa.eu/euodp/en/data/dataset/S1461_69_2_300)
         - [primary data](https://dbk.gesis.org/dbksearch/SDesc2.asp?db=E&no=4744) from [here](https://dbk.gesis.org/dbksearch/gdesc2.asp?db=e&no=0008)
